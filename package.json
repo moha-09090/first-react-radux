@@ -1,6 +1,7 @@
 {
   "name": "myecommerce",
   "version": "0.1.0",
+  "homepage": "https://moha-09090.github.io/first-react-redux",
   "private": true,
   "dependencies": {
     "classnames": "^2.2.5",
